@@ -18,7 +18,7 @@ A space shooter built with JavaScript! Just float around and shoot the asteroids
 
 ### MIV (WIP)
 
-A toy terminal-based text editor that aspires to be better it was yesterday.
+A toy text editor for the terminal.
 
 [GitHub](https://github.com/esmoradian/miv){:target="\_blank"}
 
