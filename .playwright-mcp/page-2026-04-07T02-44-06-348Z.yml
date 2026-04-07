@@ -1,0 +1,49 @@
+- generic [ref=e2]:
+  - banner [ref=e3]:
+    - heading "Edwin Moradian" [level=1] [ref=e4]
+    - img "Logo" [ref=e5]
+    - paragraph [ref=e6]: Hi, I’m Edwin Moradian. Software engineer with a background in physics and 8 years of experience building distributed systems, AI-driven features, and full-stack applications. Currently focused on multi-agent systems and AI evaluation tooling. Feel free to explore my projects.
+    - list [ref=e7]:
+      - listitem [ref=e8]:
+        - link "Connect on LinkedIn" [ref=e9] [cursor=pointer]:
+          - /url: https://linkedin.com/in/edwin-moradian
+          - text: Connect on
+          - strong [ref=e10]: LinkedIn
+      - listitem [ref=e11]:
+        - link "Check out GitHub" [ref=e12] [cursor=pointer]:
+          - /url: https://github.com/esmoradian
+          - text: Check out
+          - strong [ref=e13]: GitHub
+      - listitem [ref=e14]:
+        - link "Send an Email" [ref=e15] [cursor=pointer]:
+          - /url: mailto:edwin.moradian90@gmail.com
+          - text: Send an
+          - strong [ref=e16]: Email
+  - generic [ref=e17]:
+    - heading "Projects" [level=2] [ref=e18]:
+      - strong [ref=e19]: Projects
+    - separator [ref=e20]
+    - heading "Runner" [level=3] [ref=e21]
+    - paragraph [ref=e22]: A space shooter built with JavaScript! Just float around and shoot the asteroids.
+    - paragraph [ref=e23]:
+      - link "Try it out" [ref=e24] [cursor=pointer]:
+        - /url: https://spacey-space-space.netlify.app/
+      - text: ·
+      - link "GitHub" [ref=e25] [cursor=pointer]:
+        - /url: https://github.com/esmoradian/runner
+    - separator [ref=e26]
+    - heading "Linecraft" [level=3] [ref=e27]
+    - paragraph [ref=e28]: Hackable terminal editor with a core that can power CLI, GUI, or web frontends.
+    - paragraph [ref=e29]:
+      - link "GitHub" [ref=e30] [cursor=pointer]:
+        - /url: https://github.com/esmoradian/linecraft
+    - separator [ref=e31]
+    - heading "Gumar" [level=3] [ref=e32]
+    - paragraph [ref=e33]: A mobile finance management tool that tracks transactions and exports data directly to Google sheets. Built with React Native, Redux, and Typescript.
+    - paragraph [ref=e34]:
+      - link "Video" [ref=e35] [cursor=pointer]:
+        - /url: https://vimeo.com/711234278
+      - text: ·
+      - link "GitHub" [ref=e36] [cursor=pointer]:
+        - /url: https://github.com/esmoradian/gumar
+  - contentinfo
