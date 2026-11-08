@@ -22,8 +22,8 @@ Hackable terminal editor with a core that can power CLI, GUI, or web frontends.
 
 ---
 
-### Gumar
+### Cross-Harness Comms
 
-A mobile finance management tool that tracks transactions and exports data directly to Google sheets. Built with React Native, Redux, and Typescript.
+Lets AI coding agents in Pi, Claude Code, and Codex find each other and exchange messages inside their running sessions. Built with TypeScript and Bun.
 
-[Video](https://vimeo.com/711234278){:target="\_blank"} · [GitHub](https://github.com/esmoradian/gumar){:target="\_blank"}
+[GitHub](https://github.com/esmoradian/cross-harness-comms){:target="\_blank"}
